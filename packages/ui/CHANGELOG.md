@@ -1,5 +1,11 @@
 # @westpac/ui
 
+## 0.48.1
+
+### Patch Changes
+
+- 8c21c8d: removing the margin-bottom on input-group
+
 ## 0.48.0
 
 ### Minor Changes
